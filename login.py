@@ -1,8 +1,5 @@
 
-def claves(name):
-    databasekey = []
-    databasekey.append(name)
-    print(databasekey)
+
 
 
 def opciones(desicion):
